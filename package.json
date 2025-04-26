@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ketillyqueiroz/gms-test#readme",
   "dependencies": {
-    "cypress": "^14.3.2"
+    "cypress": "^14.3.2",
+    "faker": "^6.6.6"
   }
 }
