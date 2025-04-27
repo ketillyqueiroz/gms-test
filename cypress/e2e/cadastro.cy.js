@@ -1,4 +1,4 @@
-<reference types="cypress"/>
+/// <reference types="cypress"/>
 describe('Funcionalidade: Cadastro de membros', () => {
 beforeEach(() => {
   cy.visit('/')
