@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "The Matrix",
+        "ano": "1999",
+        "descricao": "Matrix é um filme de ação"
+    },
+    {
+        "titulo": "The Avengers",
+        "ano": "2012",
+        "descricao": "The Avengers é um filme de ação"
+    },
+    {
+        "titulo": "Iron Man",
+        "ano": "2008",
+        "descricao": "Iron Man é um filme de ação"
+    },
+    {
+        "titulo": "Spider-Man",
+        "ano": "2002",
+        "descricao": "Spider-man é um filme de ação"
+    },
+    {
+        "titulo": "Green Lantern",
+        "ano": "2011",
+        "descricao": "Lanterna verde é um filme de ação"
+    },
+    {
+        "titulo": "Interstellar",
+        "ano": "2014",
+        "descricao": "Interstellar é um filme de ação"
+    },
+    {
+        "titulo": "Wonder Woman",
+        "ano": "2017",
+        "descricao": "WW é um filme de ação"
+    },
+    {
+        "titulo": "Jurassic Park",
+        "ano": "1993",
+        "descricao": "Jurassic Park é um filme de ação"
+    },
+    {
+        "titulo": "Minecraft",
+        "ano": "2025",
+        "descricao": "Minecraft é um filme de ação e aventura baseado em um jogo eletrônico de 2009"
+    },
+    {
+        "titulo": "Superman Returns",
+        "ano": "2006",
+        "descricao": "Superman é um filme de ação"
+    },
+    {
+        "titulo": "Barbie",
+        "ano": "2023",
+        "descricao": "Barbie é um filme de comédia"
+    }
+]
