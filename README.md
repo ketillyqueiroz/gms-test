@@ -16,6 +16,10 @@ Este repositório contém testes automatizados utilizando o Cypress, aplicados e
 
 
 ## Pré-requisitos
+**É necessário ter ambos os projetos configurados:
+[🔗 API]([https://github.com/EBAC-QE/server-gms])
+[🔗 Frontend]([https://github.com/EBAC-QE/golden-movie-studio])
+
 Antes de rodar os testes, certifique-se de ter o Node.js instalado em sua máquina. Também será necessário o Cypress.
 
 **Instale as dependências do projeto com o seguinte comando:**
